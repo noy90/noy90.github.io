@@ -1,0 +1,16 @@
+theme: jekyll-theme-minimal
+title: noy90 homepage
+description: This is test page.
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+sidebar:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/noy90
+
+github: [metadata]

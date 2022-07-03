@@ -1,0 +1,26 @@
+/* copybox css */
+textarea{
+    position: relative;
+    width: 100%;
+    line-height: 1.3; 
+    white-space: pre;
+    color:white; 
+    background-color:rgb(60, 64, 67);
+    resize: none;
+    overflow-x: auto; 
+    overflow-y: hidden;
+    scrollbar-width: thin;
+}
+
+textarea::-webkit-scrollbar {
+    height: 9px;
+}
+
+textarea::-webkit-scrollbar-thumb {
+    background: rgb(160, 159, 159);
+    border-radius: 5px;
+}
+
+textarea::-webkit-scrollbar-track {
+    background: transparent;
+}
