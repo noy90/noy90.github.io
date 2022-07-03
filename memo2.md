@@ -28,7 +28,7 @@
 
 <br>
 
-| <div style="text-align: center">属性</div> | <div style="text-align: center">概要</div>  |
+| 属性 | 概要 |
 | :---- | :---- |
 | name="" | 要素の名前 |
 | rows="" | 入力欄の高さを指定 |
@@ -42,7 +42,7 @@
 ※ textarea 内でコードを書きたい時 → **文字参照**を用いる  
    
 | 記号 | code |
-| :----: | :----: |
+| :---- | :---- |
 | < | &amp;lt; |
 | > | &amp;gt; |
 
