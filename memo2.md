@@ -26,16 +26,29 @@
 &lt;/textarea&gt;
 </textarea>
 
-- textarea 内でコードを書きたい時 → **文字参照**を用いる  
+<br>
+
+| <div style="text-align: center">属性</div> | <div style="text-align: center">概要</div>  |
+| :---- | :---- |
+| name="" | 要素の名前 |
+| rows="" | 入力欄の高さを指定 |
+| wrap="" | 折り返しの設定 (off : 自動的に折り返しを入れない) |
+| spellcheck="" | スペルチェック (false : スペルチェックを行わない)  |
+| onfocus="" | 要素がフォーカスを得たときに実行 (this.select()で全選択) |
+| readonly | 入力欄の書き換え禁止 |
+
+<br>
+
+※ textarea 内でコードを書きたい時 → **文字参照**を用いる  
    
-    | 記号 | code |
-    | :----: | :----: |
-    | < | &amp;lt; |
-    | > | &amp;gt; |
+| 記号 | code |
+| :----: | :----: |
+| < | &amp;lt; |
+| > | &amp;gt; |
 
 > [文字参照一覧(外部サイト)](https://www.scollabo.com/banban/apply/ap8.html)
 
-
+<br>
 
 ### CSS
 
