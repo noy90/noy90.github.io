@@ -28,10 +28,10 @@
    
     | 記号 | code |
     | :----: | :----: |
-    | < | &lt ; |
-    | > | &gt ; |
+    | < | &amp;lt; |
+    | > | &amp;gt; |
 
-  [文字参照一覧(外部サイト)](https://www.scollabo.com/banban/apply/ap8.html)
+> [文字参照一覧(外部サイト)](https://www.scollabo.com/banban/apply/ap8.html)
 
 
 
