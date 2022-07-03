@@ -14,6 +14,8 @@
 
 それとは異なる用途で使用しているので、コピーボックスを作成する場合もっと他にいい方法があると思います。
 
+>  [textareaについて](https://developer.mozilla.org/ja/docs/Web/HTML/Element/textarea)
+
 <br>
 
 ### HTML
@@ -66,6 +68,4 @@ textarea::-webkit-scrollbar-track {
 
 ### 参考
 
->  [textareaについて](https://developer.mozilla.org/ja/docs/Web/HTML/Element/textarea)
-
->   [onfocus属性について](https://allabout.co.jp/gm/gc/23948/2/)
+>   [https://allabout.co.jp/gm/gc/23948/2/](https://allabout.co.jp/gm/gc/23948/2/)
